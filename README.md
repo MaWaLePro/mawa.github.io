@@ -1,2 +1,0 @@
-# mawa.github.io
-test
